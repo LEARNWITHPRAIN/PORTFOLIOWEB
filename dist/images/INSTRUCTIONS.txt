@@ -1,0 +1,5 @@
+Place your photos here:
+- photo1.jpg = Blackboard/teaching photo
+- photo2.jpg = Mirror selfie
+
+These images will be displayed in the hero section gallery.

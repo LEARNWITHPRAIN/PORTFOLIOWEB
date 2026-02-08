@@ -1,0 +1,10 @@
+YOUR PHOTOS SETUP GUIDE
+
+To display your photos on the website, follow these steps:
+
+1. Find your preferred photos.
+2. Rename the teaching/blackboard photo to 'photo1.jpg'.
+3. Rename the mirror selfie photo to 'photo2.jpg'.
+4. Place both files in the 'public/images/' folder of your project.
+
+Once done, they will automatically appear on the Homepage gallery and the About page.
